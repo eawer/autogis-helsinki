@@ -1,0 +1,1 @@
+This repository contains the code for lectures and exercises from University Of Helsinki "Automating GIS Processes" course - https://autogis-site.readthedocs.io/en/latest/index.html
